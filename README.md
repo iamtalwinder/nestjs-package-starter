@@ -1,4 +1,6 @@
-![NestJS Logo](https://nestjs.com/img/logo_text.svg)
+<div align="center">
+    <img alt="nestjs-package-starter" width="250" height="auto" src="https://nestjs.com/img/logo_text.svg" />
+</div>
 
 # @iamtalwinder/nestjs-package-starter
 
