@@ -1,6 +1,6 @@
 {
   "name": "@iamtalwinder/nestjs-package-starter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "🚀 NestJS Package Starter: A streamlined, ready-to-use template for building robust, scalable NestJS packages",
   "author": "Talwinder Singh",
   "license": "MIT",
@@ -61,6 +61,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nestjs/event-emitter"
+    "url": "https://github.com/iamtalwinder/nestjs-package-starter"
   }
 }
